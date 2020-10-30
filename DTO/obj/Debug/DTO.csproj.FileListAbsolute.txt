@@ -1,0 +1,6 @@
+D:\CSharp\DemoMyApp\DTO\bin\Debug\DTO.dll
+D:\CSharp\DemoMyApp\DTO\bin\Debug\DTO.pdb
+D:\CSharp\DemoMyApp\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CSharp\DemoMyApp\DTO\obj\Debug\DTO.dll
+D:\CSharp\DemoMyApp\DTO\obj\Debug\DTO.pdb
+D:\CSharp\DemoMyApp\DTO\obj\Debug\DTO.csprojAssemblyReference.cache

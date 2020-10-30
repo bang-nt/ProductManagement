@@ -1,0 +1,11 @@
+D:\CSharp\DemoMyApp\BLL\bin\Debug\BLL.dll
+D:\CSharp\DemoMyApp\BLL\bin\Debug\BLL.pdb
+D:\CSharp\DemoMyApp\BLL\bin\Debug\DAL.dll
+D:\CSharp\DemoMyApp\BLL\bin\Debug\DTO.dll
+D:\CSharp\DemoMyApp\BLL\bin\Debug\DAL.pdb
+D:\CSharp\DemoMyApp\BLL\bin\Debug\DTO.pdb
+D:\CSharp\DemoMyApp\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\CSharp\DemoMyApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CSharp\DemoMyApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CSharp\DemoMyApp\BLL\obj\Debug\BLL.dll
+D:\CSharp\DemoMyApp\BLL\obj\Debug\BLL.pdb
