@@ -1,6 +1,6 @@
 # ProductManagement
 small c# app for software engineering subject 
 
-'''javascript
+```python
 pip install hasagi
-'''
+```
